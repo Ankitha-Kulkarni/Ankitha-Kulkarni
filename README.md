@@ -60,7 +60,3 @@
 <p align="center">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Ankitha-Kulkarni/Ankitha-Kulkarni/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-<p align="center">
-  <img alt="Contribution chart" src="https://ghchart.rshah.org/e75480/Ankitha-Kulkarni" />
-</p>
