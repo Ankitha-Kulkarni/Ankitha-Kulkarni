@@ -23,7 +23,7 @@
 - 🤖 Building ML-powered security tools with **Python, SQL and Scikit-learn**
 - 💼 Previously: **AI Training Data Contributor @ Handshake (Project Dynamo)** and **Data Analyst Intern @ CIIRC**
 - 📄 Published: [Deepfake Security Suite: A Deep Learning-Based System for Real-Time Deepfake Detection](https://www.ijprems.com/ijprems-paper/deepfake-security-suite-a-deep-learning-based-system-for-real-time-deepfake-detection) (IJPREMS, 2025)
-- 🌸 Learning Japanese (JLPT N5)
+- 🌸 Cleared Japanese (JLPT N5)
 
 # <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="42px"> Languages and Tools:
 
