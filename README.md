@@ -25,19 +25,22 @@
 - 📄 Published: [Deepfake Security Suite: A Deep Learning-Based System for Real-Time Deepfake Detection](https://www.ijprems.com/ijprems-paper/deepfake-security-suite-a-deep-learning-based-system-for-real-time-deepfake-detection) (IJPREMS, 2025)
 - 🌸 Learning Japanese (JLPT N5)
 
-# <img src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" width="42px"> Languages and Tools:
+# <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="42px"> Languages and Tools:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" />
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" />
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white) ![Shodan](https://img.shields.io/badge/Shodan-B80000?style=for-the-badge&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
-<br>
+<br clear="right">
 
 ## 🚀 Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
 | 🔍 [**AI-Based SIEM Anomaly Detection Prototype**](https://github.com/Ankitha-Kulkarni/SIEM-tool) | Ingests Windows Event Logs and flags brute-force, off-hours admin and lateral-movement behavior with severity-ranked, explainable alerts | Python, Pandas, Scikit-learn (Isolation Forest, DBSCAN) |
+| 🎟️ [**Eventara**](https://github.com/Ankitha-Kulkarni/Eventara) | Full-stack event discovery and seat booking platform with JWT auth and an interactive 40-seat booking grid | MongoDB, Express, React, Node.js |
 | 🔐 **Hash Format Identifier & Analyzer** | Offline CLI that identifies 30+ hash formats (bcrypt, Argon2, NTLM, SHA-3…) and filters out JWTs and Base64 | Python, Regex, Rich |
 | 💳 **Hybrid Credit Card Fraud Detection** | Combines anomaly detection with classification and handles extreme class imbalance | Python, Scikit-learn, SMOTE |
 | 🚦 **IoT Smart Traffic & Emergency Prioritization** | Real-time emergency signal prioritization with OTP-secured access, showcased at the CSI Project Exhibition | ESP32, ThingSpeak |
