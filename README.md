@@ -60,7 +60,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | 🔍 [**AI-Based SIEM Anomaly Detection Prototype**](https://github.com/Ankitha-Kulkarni/SIEM-tool) | Ingests Windows Event Logs and flags brute-force, off-hours admin and lateral-movement behavior with severity-ranked, explainable alerts | Python, Pandas, Scikit-learn (Isolation Forest, DBSCAN) |
-| 🎟️ [**Eventara**](https://github.com/Ankitha-Kulkarni/Eventara) | Full-stack event discovery and seat booking platform with JWT auth and an interactive 40-seat booking grid | MongoDB, Express, React, Node.js |
+| 🎟️ [**Mood-Music Recommender**] | Mood Music Recommender is a Streamlit app that detects your mood from a typed sentence using a Naive Bayes classifier, then searches Spotify for matching songs. Choose a language, genre and favorite artist to personalize results, and get ten tracks with album art and listening links, no Spotify login required. | Python, Streamlit, scikit-learn, TF-IDF, Naive Bayes, joblib, Spotipy, Spotify Web API, python-dotenv, HTML/CSS |
 | 🔐 **Hash Format Identifier & Analyzer** | Offline CLI that identifies 30+ hash formats (bcrypt, Argon2, NTLM, SHA-3…) and filters out JWTs and Base64 | Python, Regex, Rich |
 | 💳 **Hybrid Credit Card Fraud Detection** | Combines anomaly detection with classification and handles extreme class imbalance | Python, Scikit-learn, SMOTE |
 | 🚦 **IoT Smart Traffic & Emergency Prioritization** | Real-time emergency signal prioritization with OTP-secured access, showcased at the CSI Project Exhibition | ESP32, ThingSpeak |
